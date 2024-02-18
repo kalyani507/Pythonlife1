@@ -1,1 +1,2 @@
 main branch is a master branch and i copied that(main branch).i changes in copied file(2nd_branch)
+3rd_copied branch create chesaka rassthuna e line 
